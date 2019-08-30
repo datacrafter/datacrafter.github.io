@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "My second blog post"
+date:   2019-08-30 21:55:55 +0200
+---
+
 ## This can be your  scond internal website page / project page
 
 **Project description:** baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
