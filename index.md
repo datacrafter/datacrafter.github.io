@@ -6,7 +6,6 @@ image:
   feature: typewriter.jpg
 ---
 
-
 <ul>
   {% for post in site.posts %}
     <li>
