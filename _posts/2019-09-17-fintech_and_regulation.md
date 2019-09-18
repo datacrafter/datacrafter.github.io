@@ -15,8 +15,9 @@ Password+OTP, Fingerprint/Facerecoginization
 
 ## Nasdaq data service
 1.   Real time data
-2.   Data service for robo advisor
-3.   Data service/API to check employee dealing activity
+2.   Data service/analytic service for robo advisor
+3.   Data service/API to check employee dealing activity (hold less than 7 days, have more than 20 transation per month)
 4.   Portofolio/risk analysis
 5.   Market place for alternative data/big data 
+6.   
  
